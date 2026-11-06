@@ -1,0 +1,29 @@
+body{
+	background-color:#cdece1;
+	font-size:13 px;
+	font-family:Arial, serif;
+	color:Black;
+}
+img {
+  float: right;
+  margin: 1em 1em;
+}
+h1{
+	font-size:30 px;
+	color:Blue;
+	font-family:Georgia, serif;
+}
+.destaque{
+	background-color:#fbe8cc;
+	margin:1em;
+	overflow: auto;
+}
+h2{
+	font-size:23 px;
+	color:black;
+	font-family:Georgia, serif;
+}
+
+/* Para mim a regra CSS mais difícil de aplicar foi a "font-family" pois o browser não aceita qualquer tipo de fonte de letra. Para resolver este problema fui pesquisar quais fontes eram possíveis usar neste browser*/
+/* Os meus erro mais comuns foram as regras de CSS, particularmente a fonte das letras, pois memsmo sabendo das suas limitações consegui errar nisso*/
+/*"Src" é a abreviação da palavra em inglês source, a qual significa fonte ou origem. Na programação web, é o atributo do HTML usado para indicar a localização exata de uma imagem ou arquivo. Em projetos de desenvolvimento de software, a pasta *src* armazena todo o código-fonte principal da aplicação.*/
